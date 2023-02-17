@@ -1,0 +1,6 @@
+{
+  "id": "cle8nfh2q0000l9084hd1k4l2",
+  "name": "polymer-sites-test",
+  "distDir": "build",
+  "buildCommand": "npm run build"
+}
